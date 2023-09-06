@@ -5,8 +5,8 @@
 	- Explore the data to determine what information the tables are telling me.
 	- Understanding what is this, and what is the purpose of this data. These columns and tables are used for what.
 	- Find the relationship between these columns and tables.
-	- Data cleansing
-	- Analyze data by answering questions
+	- Data cleansing.
+	- Analyze data by answering questions.
 	- QA questions to ensure that the database system is reliable, performs well, and is consistent.
 
 ## Process
@@ -69,7 +69,7 @@ Result:
 ## Challenges 
 
 	The data is not clear, some tables don't have PRIMARY KEY, duplicate information, and some values are not inconsistent.
-	---> So, it's hard and maybe impossible to give the correct answer.
+	So, it's hard and maybe impossible to give the correct answer.
 
 ## Future Goals
 
